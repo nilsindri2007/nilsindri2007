@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nilsindri2007
 - 👀 I’m interested in Data Structure , Algo , Java  Programming  with Angular . 
-- 🌱 I’m currently learning  Phython 
+- 🌱 I’m currently learning  Phython , React and Other trending skills.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... +91-7795625853
 
